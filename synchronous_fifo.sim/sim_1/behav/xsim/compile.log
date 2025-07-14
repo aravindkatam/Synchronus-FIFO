@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/avi/synchronous_fifo/synchronous_fifo.srcs/sources_1/new/syc_fifo.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module syc_fifo
+INFO: [VRFC 10-311] analyzing module fyc_fifo_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/avi/synchronous_fifo/synchronous_fifo.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
